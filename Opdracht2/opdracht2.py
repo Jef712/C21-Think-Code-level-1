@@ -2,7 +2,7 @@
 print("Hello world")
 
 # runtime error
-10 * (2/0)
+print (10 * (2/0))
 
 # semantic error
 name = "Alice"
