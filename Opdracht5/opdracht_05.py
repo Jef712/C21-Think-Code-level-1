@@ -2,6 +2,6 @@
 def favorite_game(name):
     print("One of my favorite games is", name)
 
-favorite_city("CSGO")
-favorite_city("GTA")
-favorite_city("Rust")
+favorite_game("CSGO")
+favorite_game("GTA")
+favorite_game("Rust")
